@@ -1,0 +1,1 @@
+const pasoInicial=1,pasoFinal=3;function iniciarApp(){botonesPaginador(),paginaSiguiente(),paginaAnterior()}document.addEventListener("DOMContentLoaded",(function(){iniciarApp()}));
